@@ -9,6 +9,8 @@ namespace Practice
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Neha - this message is from master branch!");
 
+            Console.WriteLine("Welcome!");
+            Console.WriteLine("Conflict merge");
         }
     }
 }
